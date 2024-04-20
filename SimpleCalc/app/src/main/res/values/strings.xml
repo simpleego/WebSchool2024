@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SimpleCalc</string>
+    <string name="plus">더하기</string>
+</resources>
